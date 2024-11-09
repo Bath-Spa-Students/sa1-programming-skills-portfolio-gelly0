@@ -17,5 +17,5 @@ a = 8
 b = 10
 # Store the sum of the first two numbers
 sum = (a + b)
-# Value of the sum to the console
+# Print the value of the sum to the console
 print (sum)
