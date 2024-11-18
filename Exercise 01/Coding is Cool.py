@@ -18,4 +18,4 @@ word1 = "Coding" #variable 1
 word2 = "is" #variable 2
 word3 = "Cool" #variable 3
 
-print ("Coding " + "is " + "Cool")
+print (word1 + " " + word2 + " " + word3)
