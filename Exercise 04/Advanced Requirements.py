@@ -87,7 +87,7 @@ if  finland.strip().lower() == "helsinki":
 else:
     print ("The correct answer is Helsinki")
 
-#10th country
+# 10th country
 belgium = str(input("What is the capital of Belgium? "))
 # assigning if statement
 if  belgium.strip().lower() == "brussels":
